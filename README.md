@@ -8,12 +8,12 @@
    sudo apt install gtkwave
 
    ```
- 
+
 
 2. Clone the repository:
 
    ```
-   git clone https://github.com/antmicro/cocotb-verilator-build.git build
+   git clone https://github.com/chipsalliance/cocotb-verilator-build build
    ```
 
 3. Change working directory to cloned repository:
