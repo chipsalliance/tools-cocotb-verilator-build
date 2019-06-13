@@ -13,7 +13,7 @@
 2. Clone the repository:
 
    ```
-   git clone https://github.com/chipsalliance/cocotb-verilator-build build
+   git clone https://github.com/chipsalliance/tools-cocotb-verilator-build build
    ```
 
 3. Change working directory to cloned repository:
