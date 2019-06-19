@@ -57,11 +57,11 @@ Running `axi_lite_slave`:
 
     make cocotb/axi_lite_slave/run
 
-To dump a vaweform from the simulation set the `VERILATOR_TRACE=1` env variable e.g:
+To dump a waveform from the simulation set the `VERILATOR_TRACE=1` env variable e.g:
 
     VERILATOR_TRACE=1 make cocotb/dff/run
 
-The vaweform file is written in the example folder. `gtkwave` can be used for viewing it e.g:
+The waveform file is written in the example folder. `gtkwave` can be used for viewing it e.g:
 
     gtkwave cocotb/examples/dff/tests/dump.vcd
 
