@@ -68,6 +68,6 @@ An example waveform you should get is shown below:
 
 ![DFF test waveform](img/dff-vcd.png)
 
-An example test output is shown in the picture bellow:
+An example test output is shown in the picture below:
 
 ![DFF test waveform](img/dff-test.png)
