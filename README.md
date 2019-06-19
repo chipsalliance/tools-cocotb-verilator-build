@@ -3,10 +3,9 @@
 1. Install dependencies:
 
    ```
-   sudo apt-get install virtualenv build-essential
-   sudo apt-get install python3-dev
+   sudo apt install virtualenv build-essential
+   sudo apt install python3-dev
    sudo apt install gtkwave
-
    ```
 
 
