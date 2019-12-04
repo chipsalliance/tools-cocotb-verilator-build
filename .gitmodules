@@ -3,4 +3,4 @@
 	url = https://github.com/chipsalliance/cocotb.git
 [submodule "verilator"]
 	path = verilator
-	url = https://github.com/chipsalliance/verilator.git
+	url = https://github.com/antmicro/verilator.git
